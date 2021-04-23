@@ -1,6 +1,5 @@
 <div align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rodrigo1895/nlw-05">
-  
+
   <a href="https://www.linkedin.com/in/rodrigo-lima-9607137b/">
     <img alt="Made by Rodrigo1895" src="https://img.shields.io/badge/made%20by-Rodrigo1895-%2304D361">
   </a>
