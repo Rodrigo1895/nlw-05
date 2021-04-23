@@ -42,5 +42,31 @@
                 ]
             }
         ]
+    },
+    {
+        "title": "Gerenciamento de estados",
+        "image": "blocks",
+        "questionAnswered": 1,
+        "level": "facil",
+        "questions": [
+            {
+                "title": "Qual destas opções não é uma biblioteca de gerenciamento de estados?",
+                "answers": [
+                    {
+                        "title": "Mobx"
+                    },
+                    {
+                        "title": "Provider"
+                    },
+                    {
+                        "title": "Locale",
+                        "isRigth": true
+                    },
+                    {
+                        "title": "Bloc"
+                    }
+                ]
+            }
+        ]
     }
 ]

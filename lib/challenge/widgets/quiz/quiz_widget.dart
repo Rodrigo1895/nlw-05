@@ -27,9 +27,12 @@ class _QuizWidgetState extends State<QuizWidget> {
       child: Column(
         children: [
           SizedBox(height: 64),
-          Text(
-            widget.question.title,
-            style: AppTextStyles.heading,
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 24),
+            child: Text(
+              widget.question.title,
+              style: AppTextStyles.heading,
+            ),
           ),
           SizedBox(height: 24),
           for (var i = 0; i < widget.question.answers.length; i++)
